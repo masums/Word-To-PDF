@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.1.0</Version>
+    <Authors>Ripas Filqadar</Authors>
+    <Company>Pusintek</Company>
+    <Product>Pusintek.AspNetcore.DocIO</Product>
+    <Description>Document libary for generate pdf document from word template with mail merge feature</Description>
+    <Copyright>Pusintek, Kementerian Keuangan</Copyright>
+    <PackageIconUrl>eprime.ico</PackageIconUrl>
+    <PackageReleaseNotes>Initial Release</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="7.9.0" />
+    <PackageReference Include="SkiaSharp" Version="1.60.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Syncfusion.Compression.Portable">
+      <HintPath>vendor\Syncfusion.Compression.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.DocIO.Portable">
+      <HintPath>vendor\Syncfusion.DocIO.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.DocIORenderer.Portable">
+      <HintPath>vendor\Syncfusion.DocIORenderer.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Licensing">
+      <HintPath>vendor\Syncfusion.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.OfficeChart.Portable">
+      <HintPath>vendor\Syncfusion.OfficeChart.Portable.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Pdf.Portable">
+      <HintPath>vendor\Syncfusion.Pdf.Portable.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

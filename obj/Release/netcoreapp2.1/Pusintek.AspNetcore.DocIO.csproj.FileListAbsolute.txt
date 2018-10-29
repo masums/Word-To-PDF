@@ -1,0 +1,15 @@
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\bin\Release\netcoreapp2.1\Pusintek.AspNetcore.DocIO.deps.json
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\bin\Release\netcoreapp2.1\Pusintek.AspNetcore.DocIO.dll
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\bin\Release\netcoreapp2.1\Pusintek.AspNetcore.DocIO.pdb
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\obj\Release\netcoreapp2.1\Pusintek.AspNetcore.DocIO.csproj.CoreCompileInputs.cache
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\obj\Release\netcoreapp2.1\Pusintek.AspNetcore.DocIO.AssemblyInfoInputs.cache
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\obj\Release\netcoreapp2.1\Pusintek.AspNetcore.DocIO.AssemblyInfo.cs
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\obj\Release\netcoreapp2.1\Pusintek.AspNetcore.DocIO.dll
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\obj\Release\netcoreapp2.1\Pusintek.AspNetcore.DocIO.pdb
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\bin\Release\netcoreapp2.1\Syncfusion.Compression.Portable.dll
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\bin\Release\netcoreapp2.1\Syncfusion.DocIO.Portable.dll
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\bin\Release\netcoreapp2.1\Syncfusion.DocIORenderer.Portable.dll
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\bin\Release\netcoreapp2.1\Syncfusion.Licensing.dll
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\bin\Release\netcoreapp2.1\Syncfusion.OfficeChart.Portable.dll
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\bin\Release\netcoreapp2.1\Syncfusion.Pdf.Portable.dll
+E:\Pusintek\PSI\codes\PWPNetCoreAngular\Dev\PWPNetCore-2.1\Pusintek.AspNetcore.DocIO\obj\Release\netcoreapp2.1\Pusintek.AspNetcore.DocIO.csprojResolveAssemblyReference.cache
